@@ -134,6 +134,14 @@
         {
           "_name": "header1",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#475577"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
@@ -155,16 +163,8 @@
             "showButtons": false
           },
           "title": "GOD IS GREAT",
-          "text": "hello, I am Abbas, currently you on the world happiest website page with lots<br>of love and happiness. I belive everthing is written for you by birth, so why to worry&nbsp;<br>enjoy the life as its not going tocome back.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.facebook.com/abbas0211\" data-toolbar=\"-mbrBtnMove\">FaceBook</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#475577"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000"
-            }
-          }
+          "text": "hello, I am Abbas, currently you on the world happiest website page with lots<br>of love and happiness. I belive everthing is written for you by birth, so why to worry&nbsp;<br>enjoy the life.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.facebook.com/abbas0211\" data-toolbar=\"-mbrBtnMove\">FaceBook</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
         },
         {
           "_name": "footer1",
